@@ -1,2 +1,2 @@
 # test
-simple repository
+Simple repository
